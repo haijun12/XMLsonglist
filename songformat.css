@@ -1,0 +1,32 @@
+SongList {
+    background-color:#ffffff;
+    width: 100%;
+}
+
+Genre {
+    display: block;
+    margin-bottom: 30pt;
+    margin-left: 0;
+}
+
+GenreName {
+    display: block;
+    color: #000000;
+    font-size: 30pt;
+    font-family: monospace;
+}
+
+SongTitle {
+    display: block;
+    color: #964B00;
+    font-size: 20pt;
+    font-family: monospace;
+}
+
+ArtistName, ReleaseDate {
+    display: block;
+    color: #000000;
+    margin-left: 20pt;
+    font-size: 20pt;
+    font-family: monospace;
+}

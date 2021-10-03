@@ -1,0 +1,70 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/css" href="songformat.css"?>
+
+<SongList>
+<Genre>
+    <GenreName> Hip-Hop/Rap </GenreName>
+    <Song> 
+        <SongTitle> 3 Nights </SongTitle>
+        <ArtistName> Dominic Fike </ArtistName>
+        <ReleaseDate> 2018 </ReleaseDate>
+    </Song>
+    <Song>
+        <SongTitle> Politics and Violence </SongTitle>
+        <ArtistName>Dominic Fike</ArtistName>
+        <ReleaseDate> 2020 </ReleaseDate>
+    </Song>
+    <Song>
+        <SongTitle> Westcoast Collective </SongTitle>
+        <ArtistName> Dominic Fike </ArtistName>
+        <ReleaseDate> 2018 </ReleaseDate>
+    </Song>
+    <Song>
+        <SongTitle> Last Call </SongTitle>
+        <ArtistName> Kanye West</ArtistName>
+        <ReleaseDate> 2004 </ReleaseDate>
+    </Song>
+    <Song>
+        <SongTitle> Hurricane </SongTitle>
+        <ArtistName> Kanye West </ArtistName>
+        <ReleaseDate> 2021 </ReleaseDate>
+    </Song>
+</Genre>
+<Genre>
+    <GenreName> Pop </GenreName>
+    <Song>
+        <SongTitle> comethru </SongTitle>
+        <ArtistName> Jeremy Zucker</ArtistName>
+        <ReleaseDate> 2020 </ReleaseDate>
+    </Song>
+    <Song>
+        <SongTitle> this is how you fall in love </SongTitle>
+        <ArtistName> Jeremy Zucker </ArtistName>
+        <ReleaseDate> 2021 </ReleaseDate>
+    </Song>
+    <Song>
+        <SongTitle> Let's Fall in Love for the Night</SongTitle>
+        <ArtistName> FINNEAS </ArtistName>
+        <ReleaseDate> 2019 </ReleaseDate>
+    </Song>
+</Genre>
+<Genre>
+    <GenreName> R+B </GenreName>
+    <Song>
+        <SongTitle> Make It Better </SongTitle>
+        <ArtistName> Anderson .Paak </ArtistName>
+        <ReleaseDate> 2019 </ReleaseDate>
+    </Song>
+    <Song>
+        <SongTitle> Leave The Door Open </SongTitle>
+        <ArtistName> Anderson .Paak </ArtistName>
+        <ReleaseDate> 2021 </ReleaseDate>
+    </Song>
+    <Song>
+        <SongTitle> Bubblin </SongTitle>
+        <ArtistName> Anderson .Paak </ArtistName>
+        <ReleaseDate> 2018 </ReleaseDate>
+    </Song>
+</Genre>
+</SongList>
